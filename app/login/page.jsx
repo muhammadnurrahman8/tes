@@ -70,7 +70,7 @@ export default function LoginPage() {
               value={form.identitas}
               onChange={(e) => ubah('identitas', e.target.value)}
               className="mt-1 w-full border border-charcoal/20 rounded-sm px-3 py-2 text-sm"
-              placeholder="admin atau admin@skillxchange.com"
+              placeholder="admin"
             />
           </label>
 
